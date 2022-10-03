@@ -7,7 +7,7 @@ using System.Linq;
 
 namespace ConsoleProject.Services
 {
-    class HumanResourceManager : IHumanReso5urceManager
+    class HumanResourceManager : IHumanResourceManager
     {
         public Department[] _departments;
         public Employee[] _employees;
@@ -21,8 +21,6 @@ namespace ConsoleProject.Services
             Department Administration = new Department("administration", 3, 800);
 
             _departments = new Department[5];
-            //List<Department> _departments = new List<Department>();
-            //_departments.Add(ComputerService);
 
             _departments[0] = ComputerService;
             _departments[1] = Accounting;
@@ -75,7 +73,10 @@ namespace ConsoleProject.Services
                         if (employee != null)
                         {
                             employee.DepartmentName = newnamedepartment;
-                            //employee.No = employee.DepartmentName.ToUpper().Substring(0, 2) + employee.No.Remove(0, 2);
+
+                            employee.No = $"{newnamedepartment.ToUpper().Substring(0, 2)}{_no}";
+
+
                         }
                     }
                     break;

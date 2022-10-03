@@ -1,4 +1,6 @@
-﻿using System;
+﻿using ConsoleProject.Interfaces;
+using ConsoleProject.Services;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -56,7 +58,24 @@ namespace ConsoleProject.Models
             Employees = new Employee[0];
 
         }
-       
+        public int CalcSalaryAvarage()
+        {
+            int count = 0;
+            int sum = 0;
+            int avarage = 0;
+            foreach (Employee employee in Employees )
+            {
+                    sum += employee.Salary;
+                    count++;
+
+            }avarage = sum / count;
+            return avarage;
+        }
+        public override string ToString()
+        {
+            return $"Department adi: {Name}\nMax Isci sayi limiti: {_workerlimit} nefer\nIscilerin maas limiti: Max {_workerlimit} AZN\nIscilerin maas ortalamasi: {CalcSalaryAvarage()} AZN";
+        }
+
     }
     
 }

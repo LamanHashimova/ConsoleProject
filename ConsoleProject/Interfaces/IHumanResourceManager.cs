@@ -5,7 +5,7 @@ using System.Text;
 
 namespace ConsoleProject.Interfaces
 {
-    interface IHumanReso5urceManager
+    interface IHumanResourceManager
     {
         Department[] Departments { get; }
         void AddDepartment(string name, int workerlimit, int salarylimit);

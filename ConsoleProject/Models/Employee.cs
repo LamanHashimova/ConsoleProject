@@ -51,5 +51,9 @@ namespace ConsoleProject.Models
             Salary = salary;
             DepartmentName = departmentname;
         }
+        public override string ToString()
+        {
+            return $"Adi soyadi: {FullName}\nVezifesi: {Position}\nMaasi: {Salary} AZN\nDepartment adi: {DepartmentName}\nIscinin nomresi: {No}";
+        }
     }
 }
