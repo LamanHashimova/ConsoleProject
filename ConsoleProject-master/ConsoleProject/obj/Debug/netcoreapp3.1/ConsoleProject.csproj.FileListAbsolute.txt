@@ -1,0 +1,14 @@
+C:\Users\Lenovo Y520\Desktop\ConsoleProject-master\ConsoleProject\obj\Debug\netcoreapp3.1\ConsoleProject.csproj.AssemblyReference.cache
+C:\Users\Lenovo Y520\Desktop\ConsoleProject-master\ConsoleProject\obj\Debug\netcoreapp3.1\ConsoleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo Y520\Desktop\ConsoleProject-master\ConsoleProject\obj\Debug\netcoreapp3.1\ConsoleProject.AssemblyInfoInputs.cache
+C:\Users\Lenovo Y520\Desktop\ConsoleProject-master\ConsoleProject\obj\Debug\netcoreapp3.1\ConsoleProject.AssemblyInfo.cs
+C:\Users\Lenovo Y520\Desktop\ConsoleProject-master\ConsoleProject\obj\Debug\netcoreapp3.1\ConsoleProject.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo Y520\Desktop\ConsoleProject-master\ConsoleProject\bin\Debug\netcoreapp3.1\ConsoleProject.exe
+C:\Users\Lenovo Y520\Desktop\ConsoleProject-master\ConsoleProject\bin\Debug\netcoreapp3.1\ConsoleProject.deps.json
+C:\Users\Lenovo Y520\Desktop\ConsoleProject-master\ConsoleProject\bin\Debug\netcoreapp3.1\ConsoleProject.runtimeconfig.json
+C:\Users\Lenovo Y520\Desktop\ConsoleProject-master\ConsoleProject\bin\Debug\netcoreapp3.1\ConsoleProject.runtimeconfig.dev.json
+C:\Users\Lenovo Y520\Desktop\ConsoleProject-master\ConsoleProject\bin\Debug\netcoreapp3.1\ConsoleProject.dll
+C:\Users\Lenovo Y520\Desktop\ConsoleProject-master\ConsoleProject\bin\Debug\netcoreapp3.1\ConsoleProject.pdb
+C:\Users\Lenovo Y520\Desktop\ConsoleProject-master\ConsoleProject\obj\Debug\netcoreapp3.1\ConsoleProject.dll
+C:\Users\Lenovo Y520\Desktop\ConsoleProject-master\ConsoleProject\obj\Debug\netcoreapp3.1\ConsoleProject.pdb
+C:\Users\Lenovo Y520\Desktop\ConsoleProject-master\ConsoleProject\obj\Debug\netcoreapp3.1\ConsoleProject.genruntimeconfig.cache
